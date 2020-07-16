@@ -1,3 +1,7 @@
+'''
+This python file is used to delete the password form the database
+'''
+
 import os
 import sqlite3
 
