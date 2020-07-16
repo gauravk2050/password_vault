@@ -1,3 +1,7 @@
+'''
+This python file is used to save a new password in a database
+'''
+
 import sqlite3
 
 
