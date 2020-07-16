@@ -8,6 +8,9 @@ It is is very helpfull to keep you passwords safe in your local compyter system 
 3. Show All saved Password
 4. Exit
 
+# Liberary used
+1. import os
+2. import sqlite2
 
 
 
