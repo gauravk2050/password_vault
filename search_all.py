@@ -1,3 +1,7 @@
+'''
+This python file is used to search the password
+'''
+
 import sqlite3
 import os
 
