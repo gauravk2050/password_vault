@@ -1,5 +1,8 @@
-import sqlite3
+"""
+This python file is creating a data base
+"""
 
+import sqlite3
 conn = sqlite3.connect('database.db')
 
 print(conn)
@@ -11,6 +14,3 @@ c.execute("""CREATE TABLE passwords
     website Text,\
     username TEXT,
     password TEXT)""")
-
-# c.execute("DROP TABLE passwords")
-# conn.commit()
